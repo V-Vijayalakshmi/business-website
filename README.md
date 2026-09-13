@@ -23,3 +23,10 @@ A responsive business website built using HTML, CSS, and JavaScript.
 
 This project demonstrates the development of a professional,
 responsive website for a small business.
+## Live Website
+
+https://v-vijayalakshmi.github.io/business-website/
+
+## Website Preview
+
+![GreenLeaf Home Services](screenshot.png)
